@@ -26,4 +26,3 @@ function titleCased() {
 console.log(titleCased());
 
 
-console.log(titleCased());
